@@ -1,0 +1,19 @@
+h1 {
+    color: white;
+    background-color: red;
+}
+
+#textoAmarillo{
+    color: yellow;
+}
+
+p {
+    color:green;
+}
+
+.textoAzul {
+    color:blue;
+    font-size: 140%;
+    font-weight: bold;
+
+}
